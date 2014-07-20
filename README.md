@@ -3,7 +3,7 @@ Old School Templates
 
 Basic HTML layout templates circa 2007
 
-[Live examples](http://timothycomeau.com/dev/old-school-templates)
+[Live examples](http://dev.timothycomeau.com/old-school-templates)
 
 ***
 R1.html
